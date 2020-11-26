@@ -1,0 +1,25 @@
+.task-button {
+  appearance: none;
+  -webkit-appearance: none;
+
+  border: none;
+  border-radius: 5px;
+
+  padding: 8px;
+  box-sizing: border-box;
+  font-size: 1rem;
+  color: white;
+  background-color: #457b9d;
+}
+
+.input-style {
+  appearance: none;
+  -webkit-appearance: none;
+
+  border: none;
+  border-radius: 25px;
+
+  padding: 10px;
+
+  box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.19);
+}

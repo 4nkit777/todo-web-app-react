@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.list-item-style {
+  background-color: #e63946;
+
+  margin-top: 20px;
+
+  border-radius: 5px;
+}
+
+.list-btn {
+  appearance: none;
+  -webkit-appearance: none;
+
+  border: none;
+}
+
+.list-btn:hover {
+  background-color: thistle;
+}
